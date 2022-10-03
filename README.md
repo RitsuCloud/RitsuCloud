@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RitsuCloud
-- 🌱 I’m currently doing personal projects using Java
+- 👋 Hi, I’m Chon
+- 🌱 I’m currently self-teaching HTML and CSS, major in CS at UW
 - 📫 How to reach me chonhinchou@gmail.com
 
 <!---
