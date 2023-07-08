@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chon
-- 🌱 I’m currently self-teaching HTML and CSS, major in CS at UW
+- 🌱 I’m currently a junior at UW Seattle, majoring in computer science.
 - 📫 How to reach me chonhinchou@gmail.com
 
 <!---
